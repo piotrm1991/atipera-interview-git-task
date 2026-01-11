@@ -1,0 +1,37 @@
+{
+  "id" : "bab1f47f-ba0d-3959-ba58-113d41d1e789",
+  "request" : {
+    "url" : "/repos/piotrm1991/GUI_PROJECT_PACMAN/branches",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-repos-piotrm1991-GUI_PROJECT_PACMAN-branches-00rU2.json",
+    "headers" : {
+      "X-RateLimit-Resource" : "core",
+      "Server" : "github.com",
+      "X-RateLimit-Used" : "19",
+      "Access-Control-Allow-Origin" : "*",
+      "X-Content-Type-Options" : "nosniff",
+      "X-RateLimit-Reset" : "1768152097",
+      "x-github-api-version-selected" : "2022-11-28",
+      "Date" : "Sun, 11 Jan 2026 16:29:30 GMT",
+      "Accept-Ranges" : "bytes",
+      "Referrer-Policy" : "origin-when-cross-origin, strict-origin-when-cross-origin",
+      "X-Frame-Options" : "deny",
+      "Strict-Transport-Security" : "max-age=31536000; includeSubdomains; preload",
+      "Access-Control-Expose-Headers" : "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset",
+      "X-RateLimit-Remaining" : "41",
+      "Cache-Control" : "public, max-age=60, s-maxage=60",
+      "X-GitHub-Media-Type" : "github.v3; format=json",
+      "ETag" : "W/\"2b30cbdb3e387bef7aa7fa909730d21f3f5af96062834af193941da92b8f2cf7\"",
+      "Content-Security-Policy" : "default-src 'none'",
+      "Vary" : "Accept,Accept-Encoding, Accept, X-Requested-With",
+      "X-RateLimit-Limit" : "60",
+      "X-XSS-Protection" : "0",
+      "X-GitHub-Request-Id" : "D2D2:2150B7:98FC7A8:8628979:6963CFEA",
+      "Content-Type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "bab1f47f-ba0d-3959-ba58-113d41d1e789"
+}

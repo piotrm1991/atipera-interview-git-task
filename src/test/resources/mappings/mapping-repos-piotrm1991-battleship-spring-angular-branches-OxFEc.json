@@ -1,0 +1,37 @@
+{
+  "id" : "65345ac3-59bf-3eb1-a30b-56c3aa161d8d",
+  "request" : {
+    "url" : "/repos/piotrm1991/battleship-spring-angular/branches",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-repos-piotrm1991-battleship-spring-angular-branches-OxFEc.json",
+    "headers" : {
+      "X-RateLimit-Resource" : "core",
+      "Server" : "github.com",
+      "X-RateLimit-Used" : "13",
+      "Access-Control-Allow-Origin" : "*",
+      "X-Content-Type-Options" : "nosniff",
+      "X-RateLimit-Reset" : "1768152097",
+      "x-github-api-version-selected" : "2022-11-28",
+      "Date" : "Sun, 11 Jan 2026 16:28:06 GMT",
+      "Accept-Ranges" : "bytes",
+      "Referrer-Policy" : "origin-when-cross-origin, strict-origin-when-cross-origin",
+      "X-Frame-Options" : "deny",
+      "Strict-Transport-Security" : "max-age=31536000; includeSubdomains; preload",
+      "Access-Control-Expose-Headers" : "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset",
+      "X-RateLimit-Remaining" : "47",
+      "Cache-Control" : "public, max-age=60, s-maxage=60",
+      "X-GitHub-Media-Type" : "github.v3; format=json",
+      "ETag" : "W/\"f4f50ab9470d52ea0195919b70f267cf369ea21341be03b4d5e1d01884c8fcbc\"",
+      "Content-Security-Policy" : "default-src 'none'",
+      "Vary" : "Accept,Accept-Encoding, Accept, X-Requested-With",
+      "X-RateLimit-Limit" : "60",
+      "X-XSS-Protection" : "0",
+      "X-GitHub-Request-Id" : "D2BD:2EFDAC:94165E8:8246A3F:6963CF96",
+      "Content-Type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "65345ac3-59bf-3eb1-a30b-56c3aa161d8d"
+}

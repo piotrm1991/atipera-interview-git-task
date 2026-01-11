@@ -1,0 +1,37 @@
+{
+  "id" : "f10da278-ee73-324f-96ec-f9e09a1c85f8",
+  "request" : {
+    "url" : "/repos/piotrm1991/BalanceSheetC-/branches",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-repos-piotrm1991-BalanceSheetC--branches-F0bOv.json",
+    "headers" : {
+      "X-RateLimit-Resource" : "core",
+      "Server" : "github.com",
+      "X-RateLimit-Used" : "10",
+      "Access-Control-Allow-Origin" : "*",
+      "X-Content-Type-Options" : "nosniff",
+      "X-RateLimit-Reset" : "1768152097",
+      "x-github-api-version-selected" : "2022-11-28",
+      "Date" : "Sun, 11 Jan 2026 16:27:21 GMT",
+      "Accept-Ranges" : "bytes",
+      "Referrer-Policy" : "origin-when-cross-origin, strict-origin-when-cross-origin",
+      "X-Frame-Options" : "deny",
+      "Strict-Transport-Security" : "max-age=31536000; includeSubdomains; preload",
+      "Access-Control-Expose-Headers" : "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset",
+      "X-RateLimit-Remaining" : "50",
+      "Cache-Control" : "public, max-age=60, s-maxage=60",
+      "X-GitHub-Media-Type" : "github.v3; format=json",
+      "ETag" : "W/\"a6a434f6930b47b8b662c355b4c6cc061bd771111b7b2c44c1d998de33e982c9\"",
+      "Content-Security-Policy" : "default-src 'none'",
+      "Vary" : "Accept,Accept-Encoding, Accept, X-Requested-With",
+      "X-RateLimit-Limit" : "60",
+      "X-XSS-Protection" : "0",
+      "X-GitHub-Request-Id" : "D2B6:3A95B:A4D517C:9271F8C:6963CF68",
+      "Content-Type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "f10da278-ee73-324f-96ec-f9e09a1c85f8"
+}

@@ -1,0 +1,37 @@
+{
+  "id" : "97f25f80-f916-30ae-998e-4261d2ece9f4",
+  "request" : {
+    "url" : "/repos/piotrm1991/home_books_spring/branches",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-repos-piotrm1991-home_books_spring-branches-JBNmy.json",
+    "headers" : {
+      "X-RateLimit-Resource" : "core",
+      "Server" : "github.com",
+      "X-RateLimit-Used" : "20",
+      "Access-Control-Allow-Origin" : "*",
+      "X-Content-Type-Options" : "nosniff",
+      "X-RateLimit-Reset" : "1768152097",
+      "x-github-api-version-selected" : "2022-11-28",
+      "Date" : "Sun, 11 Jan 2026 16:29:44 GMT",
+      "Accept-Ranges" : "bytes",
+      "Referrer-Policy" : "origin-when-cross-origin, strict-origin-when-cross-origin",
+      "X-Frame-Options" : "deny",
+      "Strict-Transport-Security" : "max-age=31536000; includeSubdomains; preload",
+      "Access-Control-Expose-Headers" : "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset",
+      "X-RateLimit-Remaining" : "40",
+      "Cache-Control" : "public, max-age=60, s-maxage=60",
+      "X-GitHub-Media-Type" : "github.v3; format=json",
+      "ETag" : "W/\"e63c0b6e2e6d9cc9d0ce30a0a0740b44d13194a72961f41a8d0948b7523fe1a1\"",
+      "Content-Security-Policy" : "default-src 'none'",
+      "Vary" : "Accept,Accept-Encoding, Accept, X-Requested-With",
+      "X-RateLimit-Limit" : "60",
+      "X-XSS-Protection" : "0",
+      "X-GitHub-Request-Id" : "D2D4:2A8FF:9A9E572:884E52C:6963CFF8",
+      "Content-Type" : "application/json; charset=utf-8"
+    }
+  },
+  "uuid" : "97f25f80-f916-30ae-998e-4261d2ece9f4"
+}
